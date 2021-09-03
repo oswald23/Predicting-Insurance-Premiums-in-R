@@ -1,0 +1,54 @@
+---
+title: "Insurance Premium"
+author: "Oswald"
+date: "8/12/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Packages
+```{r, echo=FALSE}
+library(tidyverse)
+library(tidymodels)
+library(DataExplorer)
+
+```
+
+
+# Load dataset               
+```{r}
+data <- read.csv('insurance.csv')
+```
+
+```{r}
+
+```
+
+
+```{r}
+
+```
+
+
+```{r}
+
+```
+
+
+```{r}
+
+```
+
+
+```{r}
+
+```
+
+
+```{r}
+
+```
+
